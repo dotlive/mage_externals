@@ -10,3 +10,6 @@
 [submodule "protobf/src"]
 	path = protobf/src
 	url = https://github.com/google/protobuf.git
+[submodule "gtest/src"]
+	path = gtest/src
+	url = https://github.com/google/googletest.git
