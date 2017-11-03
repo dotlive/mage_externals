@@ -16,3 +16,6 @@
 [submodule "zlib/src"]
 	path = zlib/src
 	url = https://github.com/madler/zlib.git
+[submodule "curl/src"]
+	path = curl/src
+	url = https://github.com/curl/curl.git
