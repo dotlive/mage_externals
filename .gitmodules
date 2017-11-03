@@ -13,3 +13,6 @@
 [submodule "gtest/src"]
 	path = gtest/src
 	url = https://github.com/google/googletest.git
+[submodule "zlib/src"]
+	path = zlib/src
+	url = https://github.com/madler/zlib.git
