@@ -1,0 +1,12 @@
+[submodule "libevent/src"]
+	path = libevent/src
+	url = https://github.com/nmathewson/Libevent.git
+[submodule "hiredis/src"]
+	path = hiredis/src
+	url = https://github.com/redis/hiredis.git
+[submodule "glog/src"]
+	path = glog/src
+	url = https://github.com/google/glog.git
+[submodule "protobf/src"]
+	path = protobf/src
+	url = https://github.com/google/protobuf.git
