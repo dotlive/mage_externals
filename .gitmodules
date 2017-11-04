@@ -31,3 +31,6 @@
 [submodule "lipgep/src"]
 	path = lipgep/src
 	url = https://github.com/google/libgep.git
+[submodule "mysql-connector-cpp/src"]
+	path = mysql-connector-cpp/src
+	url = https://github.com/mysql/mysql-connector-cpp.git
