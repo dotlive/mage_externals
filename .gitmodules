@@ -37,3 +37,6 @@
 [submodule "rapidjson/src"]
 	path = rapidjson/src
 	url = https://github.com/Tencent/rapidjson.git
+[submodule "rapidxml/src"]
+	path = rapidxml/src
+	url = https://github.com/dotlive/rapidxml.git
