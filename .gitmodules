@@ -22,3 +22,12 @@
 [submodule "easyloggingpp/src"]
 	path = easyloggingpp/src
 	url = https://github.com/muflihun/easyloggingpp.git
+[submodule "flatbuffers/src"]
+	path = flatbuffers/src
+	url = https://github.com/google/flatbuffers.git
+[submodule "mathfu/src"]
+	path = mathfu/src
+	url = https://github.com/google/mathfu.git
+[submodule "lipgep/src"]
+	path = lipgep/src
+	url = https://github.com/google/libgep.git
