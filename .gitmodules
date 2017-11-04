@@ -34,3 +34,6 @@
 [submodule "mysql-connector-cpp/src"]
 	path = mysql-connector-cpp/src
 	url = https://github.com/mysql/mysql-connector-cpp.git
+[submodule "rapidjson/src"]
+	path = rapidjson/src
+	url = https://github.com/Tencent/rapidjson.git
