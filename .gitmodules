@@ -19,3 +19,6 @@
 [submodule "curl/src"]
 	path = curl/src
 	url = https://github.com/curl/curl.git
+[submodule "easyloggingpp/src"]
+	path = easyloggingpp/src
+	url = https://github.com/muflihun/easyloggingpp.git
