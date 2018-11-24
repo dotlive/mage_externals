@@ -40,3 +40,6 @@
 [submodule "rapidxml/src"]
 	path = rapidxml/src
 	url = https://github.com/dotlive/rapidxml.git
+[submodule "7z/src"]
+	path = 7z/src
+	url = https://github.com/mcmilk/7-Zip-zstd.git
