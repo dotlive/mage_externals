@@ -9,7 +9,8 @@ INCLUDE(${MAGE_ROOT_DIR}/cmake/common.cmake)
 INCLUDE(${MAGE_ROOT_DIR}/cmake/platform.cmake)
 INCLUDE(${MAGE_ROOT_DIR}/cmake/compiler.cmake)
 
-SET(MAGE_BIN_DIR "${MAGE_ROOT_DIR}/gfl/lib/${MAGE_PLATFORM_NAME}")
+SET(MAGE_INCLUDE_DIR "${MAGE_ROOT_DIR}/install/include")
+SET(MAGE_BIN_DIR "${MAGE_ROOT_DIR}/install/lib/${MAGE_PLATFORM_NAME}")
 SET(EXTERNAL_VS_FOLDER_PREFIX "")
 
 ADD_SUBDIRECTORY(gtest)
