@@ -1,1 +1,1 @@
-xcopy "${GOOGLETEST_PROJECT_DIR}\include\*.*" "${MAGE_INCLUDE_DIR}\" /s /y
+xcopy "${GOOGLETEST_PROJECT_DIR}\include\*.*" "${MAGE_INSTALL_DIR}\include" /s /y
